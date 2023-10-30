@@ -1,0 +1,11 @@
+.boneco-img {
+  width: 40px;
+}
+
+.boneco-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  width: 150px;
+}

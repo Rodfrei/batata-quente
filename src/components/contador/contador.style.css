@@ -1,0 +1,31 @@
+.contador-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #a78e7f;
+  border-radius: 20px;
+  padding: 20px 10px;
+}
+
+.batatas {
+  width: 50px;
+}
+
+.batatas-container {
+  display: flex;
+  max-width: 700px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.contador-container-input {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.contador-butom {
+  cursor: pointer;
+}
